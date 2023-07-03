@@ -5,5 +5,4 @@ pandas
 seaborn
 scikit-learn
 openpyxl
-pickle
 pip
